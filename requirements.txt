@@ -20,3 +20,4 @@ sphinx
 utm
 wheel
 
+fonttools>=4.62.0 # not directly required, pinned by Snyk to avoid a vulnerability
